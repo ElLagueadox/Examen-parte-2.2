@@ -1,13 +1,16 @@
-body{
+body {
     background-image: url(media/george-sokol-georgesokol-valorant-split-glitchpopstore.jpg);
     background-size: cover;
 }
-.container{
+
+.container {
     margin-top: 20px;
 }
-.letrabaja{
+
+.letrabaja {
     color: white;
 }
-.letrabaja:hover{
+
+.letrabaja:hover {
     color: fuchsia;
 }
